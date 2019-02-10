@@ -1,0 +1,10 @@
+docker run -it \
+-p 8888:8888 \
+-h tf3j \
+--name tf3j \
+-v /Users/staryly/WORKSPACE/Git/Eungbean-Udacity-Deep-Learning-Nanodegree-Projects:/udacity \
+--ipc=host ufoym/deepo:all-py36-jupyter-cpu \
+jupyter notebook --no-browser \
+--ip=0.0.0.0 \
+--allow-root \
+--NotebookApp.token= --notebook-dir='/udacity'

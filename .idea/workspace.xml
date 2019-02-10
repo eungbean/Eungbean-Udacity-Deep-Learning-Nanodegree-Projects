@@ -2,32 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="035c92b9-3f94-4db4-ab91-d192ac764777" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/remote-mappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/typescript-compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ELSA.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/memojang.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-02-weight-initialization/weight_initialization.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2-02-weight-initialization/weight_initialization.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webResources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-05-dog-project/.idea/2-05-dog-project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-05-dog-project/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-05-dog-project/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-05-dog-project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-05-dog-project/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Eungbean-Udacity-Deep-Learning-Nanodegree-Projects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Eungbean-Udacity-Deep-Learning-Nanodegree-Projects.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/2-03-autoencoder/Convolutional_Autoencoder.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2-03-autoencoder/Convolutional_Autoencoder.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-03-autoencoder/Convolutional_Autoencoder_Solution.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2-03-autoencoder/Convolutional_Autoencoder_Solution.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-03-autoencoder/Simple_Autoencoder.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2-03-autoencoder/Simple_Autoencoder.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-03-autoencoder/Simple_Autoencoder_Solution.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2-03-autoencoder/Simple_Autoencoder_Solution.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-01-intro-to-rnns/Anna_KaRNNa.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3-01-intro-to-rnns/Anna_KaRNNa.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-face_generation/dlnd_face_generation-solution.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/4-face_generation/dlnd_face_generation-solution.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/embeddings/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/embeddings/Skip-Gram_word2vec.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/embeddings/Skip-Grams-Solution.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/embeddings/assets/lookup_matrix.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/embeddings/assets/matrix_mult_w_one_hot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/embeddings/assets/one_hot_encoding.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/embeddings/assets/skip_gram_net_arch.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/embeddings/assets/tokenize_lookup.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/embeddings/assets/word2vec_architectures.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/embeddings/assets/word2vec_weight_matrix_lookup_table.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/embeddings/requirements.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/embeddings/utils.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tensorboard/Anna_KaRNNa.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/tensorboard/Anna_KaRNNa.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-04-transfer-learning/Transfer_Learning.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2-04-transfer-learning/Transfer_Learning.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-04-transfer-learning/Transfer_Learning_Solution.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2-04-transfer-learning/Transfer_Learning_Solution.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-dog-project/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/2-05-dog-project/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-dog-project/CODEOWNERS" beforeDir="false" afterPath="$PROJECT_DIR$/2-05-dog-project/CODEOWNERS" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-dog-project/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2-05-dog-project/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-dog-project/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/2-05-dog-project/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-dog-project/bottleneck_features/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/2-05-dog-project/bottleneck_features/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-dog-project/dog_app.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2-05-dog-project/dog_app.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-dog-project/extract_bottleneck_features.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-05-dog-project/extract_bottleneck_features.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-dog-project/haarcascades/haarcascade_frontalface_alt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2-05-dog-project/haarcascades/haarcascade_frontalface_alt.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-dog-project/images/American_water_spaniel_00648.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/2-05-dog-project/images/American_water_spaniel_00648.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-dog-project/images/Brittany_02625.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/2-05-dog-project/images/Brittany_02625.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-dog-project/images/Curly-coated_retriever_03896.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/2-05-dog-project/images/Curly-coated_retriever_03896.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-dog-project/images/Labrador_retriever_06449.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/2-05-dog-project/images/Labrador_retriever_06449.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-dog-project/images/Labrador_retriever_06455.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/2-05-dog-project/images/Labrador_retriever_06455.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-dog-project/images/Labrador_retriever_06457.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/2-05-dog-project/images/Labrador_retriever_06457.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-dog-project/images/Welsh_springer_spaniel_08203.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/2-05-dog-project/images/Welsh_springer_spaniel_08203.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-dog-project/images/sample_cnn.png" beforeDir="false" afterPath="$PROJECT_DIR$/2-05-dog-project/images/sample_cnn.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-dog-project/images/sample_dog_output.png" beforeDir="false" afterPath="$PROJECT_DIR$/2-05-dog-project/images/sample_dog_output.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-dog-project/images/sample_human_output.png" beforeDir="false" afterPath="$PROJECT_DIR$/2-05-dog-project/images/sample_human_output.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-dog-project/requirements/dog-linux-gpu.yml" beforeDir="false" afterPath="$PROJECT_DIR$/2-05-dog-project/requirements/dog-linux-gpu.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-dog-project/requirements/dog-linux.yml" beforeDir="false" afterPath="$PROJECT_DIR$/2-05-dog-project/requirements/dog-linux.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-dog-project/requirements/dog-mac-gpu.yml" beforeDir="false" afterPath="$PROJECT_DIR$/2-05-dog-project/requirements/dog-mac-gpu.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-dog-project/requirements/dog-mac.yml" beforeDir="false" afterPath="$PROJECT_DIR$/2-05-dog-project/requirements/dog-mac.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-dog-project/requirements/dog-windows-gpu.yml" beforeDir="false" afterPath="$PROJECT_DIR$/2-05-dog-project/requirements/dog-windows-gpu.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-dog-project/requirements/dog-windows.yml" beforeDir="false" afterPath="$PROJECT_DIR$/2-05-dog-project/requirements/dog-windows.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-dog-project/requirements/requirements-gpu.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2-05-dog-project/requirements/requirements-gpu.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-dog-project/requirements/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2-05-dog-project/requirements/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-dog-project/saved_models/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/2-05-dog-project/saved_models/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-02-embeddings/Skip-Gram_word2vec.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3-02-embeddings/Skip-Gram_word2vec.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -71,9 +84,9 @@
     <session id="674977745">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="15" />
+          <entry key="project.closed" value="17" />
           <entry key="project.open.time.1" value="2" />
-          <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.10" value="3" />
           <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.17" value="1" />
@@ -82,15 +95,17 @@
           <entry key="project.open.time.7" value="5" />
           <entry key="project.open.time.8" value="3" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="20" />
+          <entry key="project.opened" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Bash" value="3" />
-          <entry key="IPNB" value="29" />
-          <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="6" />
+          <entry key="IPNB" value="50" />
+          <entry key="Image" value="2" />
+          <entry key="Markdown" value="1" />
+          <entry key="PLAIN_TEXT" value="10" />
+          <entry key="Python" value="7" />
           <entry key="Scratch" value="1" />
           <entry key="UML" value="1" />
         </counts>
@@ -98,7 +113,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Bash" value="413" />
-          <entry key="Python" value="2244" />
+          <entry key="Python" value="3557" />
           <entry key="Scratch" value="76" />
         </counts>
       </usages-collector>
@@ -108,26 +123,12 @@
     <favorites_list name="Eungbean-Udacity-Deep-Learning-Nanodegree-Projects" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ELSA.sh">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="25" column="3" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/seq2seq/sequence_to_sequence_implementation.ipynb">
+        <entry file="file://$PROJECT_DIR$/2-01- aind2-cnn/cifar10-classification/cifar10_cnn.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="0" />
+              <selected id="9" />
             </state>
           </provider>
         </entry>
@@ -171,8 +172,11 @@
         <option value="$PROJECT_DIR$/ELSA.sh" />
         <option value="$PROJECT_DIR$/2-03-autoencoder/Simple_Autoencoder.ipynb" />
         <option value="$PROJECT_DIR$/4-face_generation/dlnd_face_generation-solution.ipynb" />
-        <option value="$PROJECT_DIR$/2-03-autoencoder/Convolutional_Autoencoder.ipynb" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+        <option value="$PROJECT_DIR$/2-03-autoencoder/Convolutional_Autoencoder.ipynb" />
+        <option value="$PROJECT_DIR$/2-04-transfer-learning/Transfer_Learning_Solution.ipynb" />
+        <option value="$PROJECT_DIR$/2-04-transfer-learning/Transfer_Learning.ipynb" />
+        <option value="$PROJECT_DIR$/2-05-dog-project/dog_app.ipynb" />
       </list>
     </option>
   </component>
@@ -188,13 +192,13 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="37" />
     <option name="y" value="23" />
     <option name="width" value="1403" />
     <option name="height" value="877" />
   </component>
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
@@ -213,17 +217,18 @@
             <path>
               <item name="Eungbean-Udacity-Deep-Learning-Nanodegree-Projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="Eungbean-Udacity-Deep-Learning-Nanodegree-Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="1-01-first-neural-network" type="462c0819:PsiDirectoryNode" />
+              <item name="2-01- aind2-cnn" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Eungbean-Udacity-Deep-Learning-Nanodegree-Projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="Eungbean-Udacity-Deep-Learning-Nanodegree-Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="linear-regression" type="462c0819:PsiDirectoryNode" />
+              <item name="2-01- aind2-cnn" type="462c0819:PsiDirectoryNode" />
+              <item name="cifar10-classification" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Eungbean-Udacity-Deep-Learning-Nanodegree-Projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="Eungbean-Udacity-Deep-Learning-Nanodegree-Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="seq2seq" type="462c0819:PsiDirectoryNode" />
+              <item name="2-05-dog-project" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Eungbean-Udacity-Deep-Learning-Nanodegree-Projects" type="b2602c69:ProjectViewProjectNode" />
@@ -246,7 +251,7 @@
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -368,7 +373,7 @@
       <deployment type="docker-image">
         <settings>
           <option name="JSONFilePath" value="" />
-          <option name="command" value="--ipc=host ufoym/deepo:all-py36-jupyter jupyter notebook --no-browser \ --ip=0.0.0.0 \ --allow-root \ --NotebookApp.token= --notebook-dir='/root'" />
+          <option name="command" value="nvidia-docker run -it -p 8888:8888 -h tf3j --ipc=host ufoym/deepo:all-py36-jupyter jupyter notebook --no-browser --ip=0.0.0.0 --allow-root --NotebookApp.token= --notebook-dir='/udacity'" />
           <option name="commandLineOptions" value="" />
           <option name="containerName" value="tf3j" />
           <option name="entrypoint" value="" />
@@ -422,24 +427,25 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="37" y="23" width="1403" height="877" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49910232" visible="true" weight="0.20352682" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49910232" visible="true" weight="0.20100144" />
       <window_info id="Structure" order="1" sideWeight="0.50089765" side_tool="true" weight="0.25679544" />
       <window_info id="Favorites" order="2" sideWeight="0.50089765" side_tool="true" weight="0.25679544" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.30958232" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.30958232" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4985694" weight="0.3280098" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49785408" weight="0.3280098" />
-      <window_info active="true" anchor="bottom" id="Docker" order="7" sideWeight="0.4985694" visible="true" weight="0.496749" />
+      <window_info anchor="bottom" id="Docker" order="7" sideWeight="0.4985694" weight="0.46928746" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49893504" weight="0.3280098" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50214595" side_tool="true" weight="0.3280098" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49840257" weight="0.3283186" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3283186" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49840257" weight="0.3280098" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3280098" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -477,6 +483,12 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/2-06-dermatologist-ai" />
+      <path value="$PROJECT_DIR$/dermatologist-ai" />
+    </ignored-roots>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
@@ -593,13 +605,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2-03-autoencoder/Convolutional_Autoencoder_Solution.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1-01-first-neural-network/Your_first_neural_network.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -628,27 +633,117 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2-03-autoencoder/Convolutional_Autoencoder.ipynb">
+    <entry file="file://$PROJECT_DIR$/seq2seq/sequence_to_sequence_implementation.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="12" />
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ELSA.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="25" column="3" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/ELSA.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="25" column="3" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
+    <entry file="file://$PROJECT_DIR$/2-04-transfer-learning/Transfer_Learning_Solution.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/seq2seq/sequence_to_sequence_implementation.ipynb">
+    <entry file="file://$PROJECT_DIR$/2-04-transfer-learning/labels">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6542" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2-04-transfer-learning/codes">
+      <provider selected="true" editor-type-id="LargeFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2-06-dermatologist-ai/get_results.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="55" column="13" lean-forward="true" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2-06-dermatologist-ai/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2-06-dermatologist-ai/sample_predictions.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1861" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2-06-dermatologist-ai/images/cat_1.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2-06-dermatologist-ai/images/sample_confusion_matrix.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2-03-autoencoder/Convolutional_Autoencoder_Solution.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="9" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2-05-dog-project/CODEOWNERS">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2-04-transfer-learning/Transfer_Learning.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2-01- aind2-cnn/conv-visualization/conv_visualization.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2-03-autoencoder/Convolutional_Autoencoder.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2-05-dog-project/dog_app.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2-01- aind2-cnn/cifar10-classification/cifar10_cnn.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="9" />
         </state>
       </provider>
     </entry>
